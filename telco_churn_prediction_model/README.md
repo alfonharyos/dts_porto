@@ -1,1 +1,1 @@
-[view telco_churn_classification_Presentation.pdf](https://drive.google.com/drive/folders/1h6UN8GrqaT4t5uAErJeIXQQOYocGiLKT)
+[view telco_churn_classification_Presentation.pdf](https://drive.google.com/file/d/1l7qqpcn1R_YOcdTkLSPa45HNbFqptpto/view)
